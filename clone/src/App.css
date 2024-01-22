@@ -1,0 +1,29 @@
+.hover:hover {
+    color: #4E5EEC;
+}
+
+.paper{
+    width: 13rem;
+    height: 13vh;
+    box-shadow: 10px 7px 5px -2px rgba(0,0,0,0.56);
+-webkit-box-shadow: 10px 7px 5px -2px rgba(0,0,0,0.56);
+-moz-box-shadow: 10px 7px 5px -2px rgba(0,0,0,0.56);
+}
+
+.paperImg{
+    width: 8rem;
+    height: 7vh;
+}
+
+#trial{
+    box-shadow: -1px 7px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 7px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 7px 5px 0px rgba(0,0,0,0.75);
+}
+
+    .icon:hover{
+        background-color: rgb(146, 186, 209);
+        border-radius: 32px;
+        transition: all 0.4s;
+        cursor: pointer;
+            }
